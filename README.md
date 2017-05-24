@@ -1,0 +1,1 @@
+Takes an array price, an array quantity, and an integer number of items as its arguments and returns a float totalValue which is the value of all the prices multiplied by their quantities added together.
